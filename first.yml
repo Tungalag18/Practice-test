@@ -1,0 +1,9 @@
+project:
+  name: TungalagTusgal
+  version: 1.0
+  author: Tömörbaatar Altangerel
+  language: Mongolian
+  layers:
+    - legal_reflection
+    - ai_assistance
+    - semantic_index
